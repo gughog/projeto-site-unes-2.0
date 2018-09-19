@@ -1,0 +1,75 @@
+    #Cores:
+
+    backg: #fff;
+    backcover: #EEEEEF;
+    
+    hover: #adafce;
+    
+    bordaSuperior e botoes : #6c72a6;
+    
+
+    header: #EEEEEF;
+
+    padding entre itens: 20px;
+
+    #Fontes:
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+
+    CSS:
+    font-family: 'Open Sans', sans-serif;
+
+    
+    #header
+    -canais na internet;
+    
+    
+    #nav
+    -Estude conosco;
+    -Graduação, pós/mba, doutorado;
+    -cursos livres, técnicos, nossas unidades/polos, institucional;
+    -login estudante/professor
+
+    #Conteúdos:
+
+    -Sobre; 
+    -Sobre inserção acadêmica; 
+    -Sustentabilidade; 
+    -extensões acadêmicas; 
+    -Núcleo de apoio estudantil; 
+    -recursos e formas de conhecimento providas pela instituição; 
+    -oportunidades de estágio/emprego; 
+    -campis e suas localidades ( barra p/ achar cep e outra 
+     barra de espaço para api googleMaps);
+    -blog geral de cursos;
+    -Formas de ingresso(Vestibular, enem, reabertura de matricula,
+      transferencia, segunda graduação, prouni)
+      
+      
+     
+     #Cursos
+     
+     -Humanas e sociais: Administração, Ciências contábeis, Design de 
+     interiores, direito, RH(Tec), Serviços sociais(Tec);
+     -Exatas: Ciencias da computação, Engenharia mecanica e mecatronica;
+     -Biologicas: Enfermagem, nutrição, medicina e psicologia;
+     -EAD: Analise e dev. sistemas
+     
+     
+     #Rodapé
+     
+     -imprensa;
+     -parcerias;
+     -nossas redes;
+     -trabalhe conosco;
+     -contato/fale conosco
+     
+     
+    
+
+
+
+
+
+
+
